@@ -16,7 +16,7 @@ buildscript {
 apply plugin: "com.bertramlabs.asset-pipeline"
 
 repositories {
-    maven { url "http://repo.9ci.com/artifactory/grails-plugins" }
+    maven { url "http://repo.9ci.com/oss-snapshots" }
 }
 
 dependencies {
